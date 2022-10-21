@@ -19,3 +19,8 @@ p {
 body {
     background-color: aquamarine;
 }
+.main__box {
+    text-align: center;
+    padding-top: 50px;
+    color: black;
+}
