@@ -1,0 +1,21 @@
+p {
+    text-align: center;
+    font-size: xx-large;
+    color: red;
+}
+.child {
+   border: 1px solid black;
+   width: 50px ;
+   height: 50px;
+}
+
+.box {
+    display: flex;
+    max-width: 270px;
+    flex-wrap:wrap;
+    margin: 0 auto;
+}
+
+body {
+    background-color: aquamarine;
+}
